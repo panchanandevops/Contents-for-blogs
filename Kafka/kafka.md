@@ -40,6 +40,7 @@ Kafka is a distributed event streaming platform that enables the publishing and 
 ## Kafka's Architecture 🏰
 Kafka's architecture Includes key components, each contributing uniquely to its robust event streaming capabilities. Let's explore the role of each element in shaping Kafka's distributed data processing. 
 
+![](./IMG/kafka-ecosystem.png)
 ### 1.   Producer:
 - Initiates data flow by publishing records to specified topics.
 - Facilitates event-driven architecture, triggering actions based on events.
