@@ -16,9 +16,7 @@ Observability in DevOps is the practice of gaining deep insights into the inner 
 
 The **three** pillars of observability are **logs, matrices, traces**. Let's understand them one by one.
 
-<div style="text-align:center;">
-  <img src="./IMG/Copy-of-Getting-Started-with-Multi-Cloud-CI_CD-Pipelines-6.webp" alt="Multi-Cloud CI/CD Pipelines Image" style="width:90%;">
-</div>
+![](./IMG/observability.png)
 
 ## Metrics in Distributed Systems 📊
 
