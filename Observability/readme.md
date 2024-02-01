@@ -1,7 +1,5 @@
 # How To Observe Distributed Systems 👁️‍🗨️
 
----
-
 ## What is Observability in Distributed Systems? 🔍
 
 Observability in DevOps is the practice of gaining deep insights into the inner workings of a system by collecting and analyzing diverse data sources, such as logs, metrics, and traces.
